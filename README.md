@@ -42,15 +42,6 @@
 - A feature-rich app for managing driving lessons, payments, and schedules.  
 - 📂 [Repository](https://github.com/your-repo-link) | 📸 [Screenshots](https://link-to-images.com)
 
-### 2️⃣ AI Study Material Generator  
-**Tech Stack**: Next.js, React, Tailwind CSS  
-- AI-powered app to create customized study materials on demand.  
-- 📂 [Repository](https://github.com/your-repo-link) | 🔗 [Live Demo](https://live-demo-link.com)
-
-### 3️⃣ Job Application Microservices  
-**Tech Stack**: Spring Boot, Docker, Eureka  
-- A scalable microservices architecture for managing job applications and reviews.  
-- 📂 [Repository](https://github.com/your-repo-link)
 
 ---
 
