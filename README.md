@@ -9,7 +9,7 @@
 ---
 
 ## 🌟 About Me  
-- 🎓 Final-year **BSc Information Systems Focused Artificial Intelligence** 
+- 🎓 Final-year **BSc Information Systems Focused Artificial Intelligence** student
 - 💻 Passionate about building **full-stack web and mobile applications**.  
 - 🌱 Currently mastering **React Native**, **Node.js**, and **Firebase**.  
 - 🎮 Gamer and tech enthusiast – I enjoy exploring new tools and technologies.
