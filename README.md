@@ -35,12 +35,12 @@
 
 ---
 
-## 🌐 Portfolio Highlights  
+## 🌐 Personal Projects
 
-### 1️⃣ Driving Lessons Management App  
-**Tech Stack**: Java, Android Studio, SQL Server  
-- A feature-rich app for managing driving lessons, payments, and schedules.  
-- 📂 [Repository](https://github.com/your-repo-link) | 📸 [Screenshots](https://link-to-images.com)
+### 1️⃣ FoundIt - Web App  
+**Tech Stack**: javascript, tailwind css, firebase, react 
+FoundIt is a modern web application designed to help people recover their lost items and return found items to their rightful owners. Built with React and Firebase, it offers a seamless, real-time experience for users 
+- 📂 [Repository](https://github.com/abdmas31/foundit-app) | 📸 [Screenshots](https://link-to-images.com)
 
 
 ---
