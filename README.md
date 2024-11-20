@@ -38,8 +38,8 @@
 ## 🌐 Personal Projects
 
 ### 1️⃣ FoundIt - Web App  
+**Description**:FoundIt is a modern web application designed to help people recover their lost items and return found items to their rightful owners. Built with React and Firebase, it offers a seamless, real-time experience for users 
 **Tech Stack**: javascript, tailwind css, firebase, react 
-FoundIt is a modern web application designed to help people recover their lost items and return found items to their rightful owners. Built with React and Firebase, it offers a seamless, real-time experience for users 
 - 📂 [Repository](https://github.com/abdmas31/foundit-app) | 📸 [Screenshots](https://link-to-images.com)
 
 
