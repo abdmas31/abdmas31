@@ -37,11 +37,11 @@
 
 ## 🌐 Personal Projects
 
-### 1️⃣ FoundIt - Web App  
-**Description**:FoundIt is a modern web application designed to help people recover their lost items and return found items to their rightful owners. Built with React and Firebase, it offers a seamless, real-time experience for users.
+### 1️⃣ AI Image Generator - Web App  
+**Description**:A modern web application that generates images using OpenAI's DALL-E API based on text descriptions.
 
-**Tech Stack**: javascript, tailwind css, firebase, react 
-- 📂 [Repository](https://github.com/abdmas31/foundit-app) | 📸 [Screenshots](https://link-to-images.com)
+**Tech Stack**: javascript, tailwind css, react 
+- 📂 [Repository](https://github.com/abdmas31/ai-image-generator) | 📸 [Live Demo](https://ai-image-generator-mocha.vercel.app/)
 
 
 ---
