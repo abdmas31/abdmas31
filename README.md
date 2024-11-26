@@ -53,9 +53,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdmas31&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-
-## 🌟 What’s Next?  
-- Building **an app to connect students and freelance teachers** using React Native & Firebase.  
-- Exploring advanced **Kubernetes** deployment for scalable systems.  
 
