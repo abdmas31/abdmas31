@@ -4,7 +4,7 @@
 
 ---
 
-![Profile Banner](https://via.placeholder.com/1200x300?text=Add+a+banner+here)
+![Banner](assets/banner.png)
 
 ---
 
