@@ -47,7 +47,7 @@
 **Description**: An interactive AI-powered educational quiz application for developers to test and improve their technical knowledge across various domains of software development.
 
 **Tech Stack**: Javacript, Tailwind CSS, React ,Firebase Auth, OpenAI API
-- 📂 [Repository](https://github.com/abdmas31/ai-tech-quizz) | 📸 [Live Demo](https://ai-tech-quizz.vercel.app/login)
+- 📂 [Repository](https://github.com/abdmas31/ai-tech-quizz) | 📸 [Live Demo](https://ai-tech-quizz.vercel.app/)
 ---
 
 ## 📊 GitHub Stats  
