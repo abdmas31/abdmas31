@@ -38,12 +38,16 @@
 ## 🌐 Personal Projects
 
 ### 1️⃣ AI Image Generator - Web App  
-**Description**:A modern web application that generates images using OpenAI's DALL-E API based on text descriptions.
+**Description**: A modern web application that generates images using OpenAI's DALL-E API based on text descriptions.
 
-**Tech Stack**: javascript, tailwind css, react 
+**Tech Stack**: Javascript, Tailwind CSS, React, OpenAI API
 - 📂 [Repository](https://github.com/abdmas31/ai-image-generator) | 📸 [Live Demo](https://ai-image-generator-mocha.vercel.app/)
 
+### 2️⃣ AI Tech Quizz - Web App  
+**Description**: An interactive AI-powered educational quiz application for developers to test and improve their technical knowledge across various domains of software development.
 
+**Tech Stack**: Javacript, Tailwind CSS, React ,Firebase Auth, OpenAI API
+- 📂 [Repository](https://github.com/abdmas31/ai-tech-quizz) | 📸 [Live Demo](https://ai-tech-quizz.vercel.app/login)
 ---
 
 ## 📊 GitHub Stats  
