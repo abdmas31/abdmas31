@@ -11,7 +11,7 @@
 ## 🌟 About Me  
 - 🎓 Graduate **BSc Information Systems Focused Artificial Intelligence** 
 - 💻 Passionate about building **full-stack web and mobile applications**.  
-- 🌱 Currently mastering **React Native**, **Node.js**, and **Firebase**.  
+- 🌱 Currently learning  **React Native**, **Node.js**, and **Firebase**.  
 - 🎮 Gamer and tech enthusiast – I enjoy exploring new tools and technologies.
 
 ---
